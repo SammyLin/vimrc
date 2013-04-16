@@ -5,6 +5,9 @@
 
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 call pathogen#infect()
-syntax enable
+
+" Color Setting
 set t_Co=256
-colorscheme moria
+syntax enable
+let g:solarized_termcolors=256
+colorscheme solarized_dark
