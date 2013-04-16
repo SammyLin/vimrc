@@ -1,4 +1,4 @@
-### What plugins are included?
+## What plugins are included?
 * [pathogen.vim](https://github.com/tpope/vim-pathogen): Manages the runtime path of the plugins
 * [NERD Tree](https://github.com/scrooloose/nerdtree): A tree explorer plugin for vim
 * [vim-powerline](https://github.com/Lokaltog/vim-powerline): The ultimate vim statusline utility
@@ -11,12 +11,12 @@
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim): Fuzzy file, buffer, mru and tag finder. In my config it's mapped to `<Ctrl+F>`, because `<Ctrl+P>` is used by YankRing
 * [vim-rails](https://github.com/tpope/vim-rails): Ruby on Rails power tools
 
-### Key Mapping
+## Key Mapping
 
-#### Open/Close NERDTree
+### Open/Close NERDTree
 
     map <Leader>n <plug>NERDTreeTabsToggle<CR>
 
-#### open directory of current opened file
+### open directory of current opened file
 
     map <leader>r :NERDTreeFind<cr>
