@@ -14,7 +14,9 @@
 ### Key Mapping
 
 #### Open/Close NERDTree
-  map <Leader>n <plug>NERDTreeTabsToggle<CR>
+
+    map <Leader>n <plug>NERDTreeTabsToggle<CR>
 
 #### open directory of current opened file
-  map <leader>r :NERDTreeFind<cr>
+
+    map <leader>r :NERDTreeFind<cr>
