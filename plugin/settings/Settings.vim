@@ -20,7 +20,7 @@ syntax enable
 set t_Co=256
 let g:solarized_termcolors=256
 try
-  colorscheme solarized_dark
+  colorscheme kolor
 catch
 endtry
 

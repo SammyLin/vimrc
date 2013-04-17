@@ -19,14 +19,21 @@ link the vimrc to
 
 ## Screenshot
 
-![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/vim-1.png)
+## Defaut Colorscheme(kolor)
 
-![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/vim-2.png)
+![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/kolor-1.png)
 
+![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/kolor-2.png)
+
+## Colorscheme(solarized_dark)
+
+![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/solarized_dark-1.png)
+
+![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/solarized_dark-2.png)
 
 ## Font
 
-[Source Code Pro Font](https://github.com/adobe/source-code-pro)
+* [Source Code Pro Font](https://github.com/adobe/source-code-pro)
 
 ## What plugins are included?
 * [pathogen.vim](https://github.com/tpope/vim-pathogen): Manages the runtime path of the plugins
