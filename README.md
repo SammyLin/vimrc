@@ -36,6 +36,7 @@ link the vimrc to
 * [ZenCoding](https://github.com/mattn/zencoding-vim): zen-coding for vim: http://code.google.com/p/zen-coding/ 
 * [vim-smartinput](https://github.com/kana/vim-smartinput): Vim plugin: Provide smart input assistant
 * [vim-ruby](https://github.com/vim-ruby/vim-ruby): Vim/Ruby Configuration Files
+* [matchit.zip](https://github.com/vim-scripts/matchit.zip): extended % matching for HTML, LaTeX, and many other languages 
 
 ## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode
