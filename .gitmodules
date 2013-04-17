@@ -55,3 +55,6 @@
 [submodule "bundle/tComment"]
 	path = bundle/tComment
 	url = git://github.com/vim-scripts/tComment.git
+[submodule "bundle/vim-indent-object"]
+	path = bundle/vim-indent-object
+	url = git://github.com/michaeljsmith/vim-indent-object.git
