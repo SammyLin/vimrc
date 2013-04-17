@@ -1,3 +1,22 @@
+## Usage
+Installation and Requisites:
+
+    git clone git@github.com:SammyLin/vimrc.git ~/sammylin-vim
+
+execute the update.sh to get latest version modules:
+
+    cd ~/sammylin-vim
+    ./update.sh
+
+make a symbolic link .vim to eddie-vim that you just cloned, or just rename it to .vim also be fine:
+
+    cd ~
+    ln -s sammylin-vim .vim
+
+link the vimrc to
+
+    ln -s .vim/vimrc .vimrc
+
 ## What plugins are included?
 * [pathogen.vim](https://github.com/tpope/vim-pathogen): Manages the runtime path of the plugins
 * [NERD Tree](https://github.com/scrooloose/nerdtree): A tree explorer plugin for vim
