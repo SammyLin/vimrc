@@ -39,6 +39,10 @@
 ### Display the list of buffers
 
     map <Leader>b :BufExplorer<CR>
+    
+### Display CtrlPBuffer 
+
+    map <c-b> :CtrlPBuffer<cr>
 
 ## Reference
 

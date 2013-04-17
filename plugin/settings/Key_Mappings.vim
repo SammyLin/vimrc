@@ -16,3 +16,8 @@ map <Leader>f :MRU<CR>
 "" bufExplorer
 """"""""""""""""
 map <Leader>b :BufExplorer<CR>
+
+""""""""""""""""
+"" CtrlP
+""""""""""""""""
+map <c-b> :CtrlPBuffer<cr>
