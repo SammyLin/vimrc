@@ -33,4 +33,4 @@
 
 ## Reference
 
-### [Rails.vim 高效使用指南](http://ruby-china.org/topics/4478)
+* [Rails.vim 高效使用指南](http://ruby-china.org/topics/4478)
