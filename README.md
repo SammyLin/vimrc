@@ -32,6 +32,10 @@
 
     map <Leader>f :MRU<CR>
 
+### Display the list of buffers
+
+    map <Leader>b :BufExplorer<CR>
+
 ## Reference
 
 * [Rails.vim 高效使用指南](http://ruby-china.org/topics/4478)

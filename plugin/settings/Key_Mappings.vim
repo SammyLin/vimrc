@@ -15,4 +15,4 @@ map <Leader>f :MRU<CR>
 """"""""""""""""
 "" bufExplorer
 """"""""""""""""
-map <leader>o :BufExplorer<cr>
+map <Leader>b :BufExplorer<CR>
