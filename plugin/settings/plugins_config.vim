@@ -26,3 +26,11 @@ let g:vim_markdown_folding_disabled=1
 "" vim-markdown
 """"""""""""""""
 let MRU_Max_Entries = 400
+
+""""""""""""""""
+"" bufExplorer
+""""""""""""""""
+let g:bufExplorerDefaultHelp=0
+let g:bufExplorerShowRelativePath=1
+let g:bufExplorerFindActive=1
+let g:bufExplorerSortBy='name'
