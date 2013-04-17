@@ -19,13 +19,13 @@ link the vimrc to
 
 ## Screenshot
 
-## Defaut Colorscheme(kolor)
+### Defaut Colorscheme(kolor)
 
 ![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/kolor-1.png)
 
 ![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/kolor-2.png)
 
-## Colorscheme(solarized_dark)
+### Colorscheme(solarized_dark)
 
 ![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/solarized_dark-1.png)
 
