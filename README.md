@@ -17,6 +17,17 @@ link the vimrc to
 
     ln -s .vim/vimrc .vimrc
 
+## Screenshot
+
+![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/vim-1.png)
+
+![image](https://github.com/SammyLin/vimrc/raw/master/screenshots/vim-2.png)
+
+
+## Font
+
+[Source Code Pro Font](https://github.com/adobe/source-code-pro)
+
 ## What plugins are included?
 * [pathogen.vim](https://github.com/tpope/vim-pathogen): Manages the runtime path of the plugins
 * [NERD Tree](https://github.com/scrooloose/nerdtree): A tree explorer plugin for vim
