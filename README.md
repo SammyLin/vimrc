@@ -30,7 +30,6 @@ link the vimrc to
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim): Fuzzy file, buffer, mru and tag finder. In my config it's mapped to `<Ctrl+F>`, because `<Ctrl+P>` is used by YankRing
 * [vim-rails](https://github.com/tpope/vim-rails): Ruby on Rails power tools
 * [mru.vim](https://github.com/vim-scripts/mru.vim): Plugin to manage Most Recently Used (MRU) files
-* [bufexplorer.zip](git://github.com/vim-scripts/bufexplorer.zip.git): Buffer Explorer / Browser
 * [tComment](https://github.com/vim-scripts/tComment): An extensible & universal comment plugin that also handles embedded filetypes
 * [vim-indent-object](https://github.com/michaeljsmith/vim-indent-object): Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column).
@@ -58,10 +57,6 @@ link the vimrc to
 
     map <Leader>f :MRU<CR>
 
-### Display the list of buffers
-
-    map <Leader>b :BufExplorer<CR>
-    
 ### Display CtrlPBuffer 
 
     map <c-b> :CtrlPBuffer<cr>
