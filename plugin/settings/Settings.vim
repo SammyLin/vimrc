@@ -32,3 +32,9 @@ set expandtab
 " auto indent
 set smarttab
 set autoindent
+
+" always show the status line
+set laststatus=2
+
+" always show tab
+set showtabline=2
