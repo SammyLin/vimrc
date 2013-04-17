@@ -78,7 +78,7 @@ link the vimrc to
 
 ### Display CtrlPBuffer 
 
-    map <c-b> :CtrlPBuffer<cr>
+    map <Leader>b :CtrlPBuffer<CR>
 
 ## Reference
 
