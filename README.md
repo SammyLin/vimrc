@@ -30,3 +30,7 @@
 ### displays the MRU file list
 
     map <Leader>f :MRU<CR>
+
+## Reference
+
+### [Rails.vim 高效使用指南](http://ruby-china.org/topics/4478)
