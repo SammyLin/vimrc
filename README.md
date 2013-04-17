@@ -14,6 +14,7 @@
 ## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode
 * [vim-coffee-script](https://github.com/kchmck/vim-coffee-script): CoffeeScript support for vim
+* [scss-syntax.vim](https://github.com/cakebaker/scss-syntax.vim): Vim syntax file for scss (Sassy CSS)
 
 ## Key Mapping
 
