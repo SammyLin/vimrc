@@ -3,12 +3,12 @@ Installation and Requisites:
 
     git clone git@github.com:SammyLin/vimrc.git ~/sammylin-vim
 
-execute the update.sh to get latest version modules:
+execute the `update.sh` to get latest version modules:
 
     cd ~/sammylin-vim
     ./update.sh
 
-make a symbolic link .vim to eddie-vim that you just cloned, or just rename it to .vim also be fine:
+make a symbolic link `.vim` to ``sammylin-vim`` that you just cloned, or just rename it to `.vim` also be fine:
 
     cd ~
     ln -s sammylin-vim .vim
