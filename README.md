@@ -12,6 +12,7 @@
 * [vim-rails](https://github.com/tpope/vim-rails): Ruby on Rails power tools
 * [mru.vim](https://github.com/vim-scripts/mru.vim): Plugin to manage Most Recently Used (MRU) files
 * [bufexplorer.zip](git://github.com/vim-scripts/bufexplorer.zip.git): Buffer Explorer / Browser
+* [tComment](https://github.com/vim-scripts/tComment): An extensible & universal comment plugin that also handles embedded filetypes
 
 ## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode

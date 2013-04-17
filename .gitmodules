@@ -52,3 +52,6 @@
 [submodule "bundle/bufexplorer.zip"]
 	path = bundle/bufexplorer.zip
 	url = git://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "bundle/tComment"]
+	path = bundle/tComment
+	url = git://github.com/vim-scripts/tComment.git
