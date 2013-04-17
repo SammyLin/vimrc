@@ -17,6 +17,7 @@
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column).
 * [ZenCoding](https://github.com/mattn/zencoding-vim): zen-coding for vim: http://code.google.com/p/zen-coding/ 
 * [vim-smartinput](https://github.com/kana/vim-smartinput): Vim plugin: Provide smart input assistant
+* [vim-ruby](https://github.com/vim-ruby/vim-ruby): Vim/Ruby Configuration Files
 
 ## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode
