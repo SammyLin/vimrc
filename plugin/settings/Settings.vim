@@ -36,9 +36,6 @@ set autoindent
 " always show the status line
 set laststatus=2
 
-" always show tab
-set showtabline=2
-
 " Enable mouse use in all modes
 set mouse=a
 
