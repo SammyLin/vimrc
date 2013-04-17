@@ -16,6 +16,7 @@
 * [vim-indent-object](https://github.com/michaeljsmith/vim-indent-object): Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter): A Vim plugin which shows a git diff in the gutter (sign column).
 * [delimitMate](https://github.com/Raimondi/delimitMate): Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.
+* [ZenCoding](https://github.com/mattn/zencoding-vim): zen-coding for vim: http://code.google.com/p/zen-coding/ 
 
 ## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode

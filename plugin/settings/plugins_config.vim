@@ -41,3 +41,8 @@ let g:bufExplorerSortBy='name'
 let g:ctrlp_working_path_mode = 0
 let g:ctrlp_max_height = 20
 let g:ctrlp_custom_ignore = 'tmp\|^\.DS_Store\|^\.git'
+
+""""""""""""""""
+"" ZenCoding
+""""""""""""""""
+let g:user_zen_mode='a'
