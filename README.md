@@ -10,6 +10,7 @@
 * [supertab](https://github.com/ervandew/supertab): Perform all your vim insert mode completions with Tab
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim): Fuzzy file, buffer, mru and tag finder. In my config it's mapped to `<Ctrl+F>`, because `<Ctrl+P>` is used by YankRing
 * [vim-rails](https://github.com/tpope/vim-rails): Ruby on Rails power tools
+* [mru.vim](https://github.com/vim-scripts/mru.vim): Plugin to manage Most Recently Used (MRU) files
 
 ## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode
@@ -24,4 +25,8 @@
 
 ### open directory of current opened file
 
-    map <leader>r :NERDTreeFind<cr>
+    map <Leader>r :NERDTreeFind<CR>
+
+### displays the MRU file list
+
+    map <Leader>f :MRU<CR>

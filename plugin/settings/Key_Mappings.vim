@@ -5,4 +5,9 @@ let mapleader=","
 """"""""""""""""
 
 map <Leader>n <plug>NERDTreeTabsToggle<CR> " Open/Close NERDTree
-map <leader>r :NERDTreeFind<cr> " open directory of current opened file
+map <Leader>r :NERDTreeFind<CR> " open directory of current opened file
+
+""""""""""""""""
+"" MRU
+""""""""""""""""
+map <Leader>f :MRU<CR>
