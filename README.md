@@ -10,7 +10,10 @@
 * [supertab](https://github.com/ervandew/supertab): Perform all your vim insert mode completions with Tab
 * [ctrlp.vim](https://github.com/kien/ctrlp.vim): Fuzzy file, buffer, mru and tag finder. In my config it's mapped to `<Ctrl+F>`, because `<Ctrl+P>` is used by YankRing
 * [vim-rails](https://github.com/tpope/vim-rails): Ruby on Rails power tools
+
+## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode
+* [vim-coffee-script](https://github.com/kchmck/vim-coffee-script): CoffeeScript support for vim
 
 ## Key Mapping
 
