@@ -3,17 +3,17 @@ Installation and Requisites:
 
     git clone git@github.com:SammyLin/vimrc.git ~/sammylin-vim
 
-execute the `update.sh` to get latest version modules:
+Execute the `update.sh` to get latest version modules:
 
     cd ~/sammylin-vim
     ./update.sh
 
-make a symbolic link `.vim` to ``sammylin-vim`` that you just cloned, or just rename it to `.vim` also be fine:
+Make a symbolic link `.vim` to ``sammylin-vim`` that you just cloned, or just rename it to `.vim` also be fine:
 
     cd ~
     ln -s sammylin-vim .vim
 
-link the vimrc to
+Link the vimrc to
 
     ln -s .vim/vimrc .vimrc
 
@@ -68,11 +68,11 @@ link the vimrc to
 
     map <Leader>n <plug>NERDTreeTabsToggle<CR>
 
-### open directory of current opened file
+### Open directory of current opened file
 
     map <Leader>r :NERDTreeFind<CR>
 
-### displays the MRU file list
+### Displays the MRU file list
 
     map <Leader>f :MRU<CR>
 
