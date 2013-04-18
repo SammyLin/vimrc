@@ -80,6 +80,12 @@ link the vimrc to
 
     map <Leader>b :CtrlPBuffer<CR>
 
-## Reference
+## Reference document
 
 * [Rails.vim 高效使用指南](http://ruby-china.org/topics/4478)
+
+## Reference vimrc
+
+* [Amix](https://github.com/amix/vimrc)
+* [高見龍](https://github.com/kaochenlong/eddie-vim)
+
