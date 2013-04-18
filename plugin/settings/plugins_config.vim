@@ -25,7 +25,7 @@ let g:Powerline_symbols='fancy'
 let g:vim_markdown_folding_disabled=1
 
 """"""""""""""""
-"" vim-markdown
+"" MRU
 """"""""""""""""
 let MRU_Max_Entries = 400
 
