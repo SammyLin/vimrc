@@ -16,3 +16,6 @@ map <Leader>f :MRU<CR>
 "" CtrlP
 """"""""""""""""
 map <Leader>b :CtrlPBuffer<CR>
+map <C-h> gT<CR>
+map <C-l> gt<CR>
+
