@@ -74,13 +74,56 @@ Link the vimrc to
 
     map <Leader>r :NERDTreeFind<CR>
 
-### Displays the MRU file list
+### Display the MRU file list
 
     map <Leader>f :MRU<CR>
 
 ### Display CtrlPBuffer 
 
     map <Leader>b :CtrlPBuffer<CR>
+
+
+## My Frequently Command
+
+### Open/Close NERDTree
+
+    ,n
+
+### Open CtrlP 
+
+    Control + p
+
+### Display the MRU file list
+
+    ,f
+
+### Display CtrlP CtrlPBuffer
+
+    ,b
+
+### To suspend your running vim
+
+    Control + z
+
+    # will suspend the process and get back to your shell
+
+    $ fg
+
+### Toggle comment
+
+    Control + _
+
+### Finding a word
+
+    /<word>
+    
+    or
+    
+    ?<word>
+
+    # Pressing the n key, will allow you to go directly to the next occurrence of the word. 
+
+
 
 ## Reference document
 
