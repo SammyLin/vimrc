@@ -1,7 +1,7 @@
 ## Usage
 Installation and Requisites:
 
-    git clone git@github.com:SammyLin/vimrc.git ~/sammylin-vim
+    git clone git://github.com/SammyLin/vimrc.git ~/sammylin-vim
 
 Execute the `update.sh` to get latest version modules:
 
