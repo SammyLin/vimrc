@@ -41,3 +41,10 @@ set mouse=a
 
 " Show Line Numbers
 set number
+
+" use emacs-style tab completion when selecting files, etc
+set wildmode=longest,list
+
+" make tab completion for files/buffers act like bash
+set wildmenu
+
