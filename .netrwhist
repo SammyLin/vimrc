@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/corn2277/.vim'
+let g:netrw_dirhist_2='/Users/corn2277/Dropbox/RubyProject/project_name/public'
+let g:netrw_dirhist_3='/Users/corn2277/sammylin-vim'
+let g:netrw_dirhist_4='/Users/corn2277/Dropbox/RubyProject/ING/awsug-tw/app/views/topic_mailer'
+let g:netrw_dirhist_5='/Users/corn2277/sammylin-vim/bundle'

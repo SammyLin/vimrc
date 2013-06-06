@@ -55,7 +55,6 @@ Link the vimrc to
 * [vim-smartinput](https://github.com/kana/vim-smartinput): Vim plugin: Provide smart input assistant
 * [vim-ruby](https://github.com/vim-ruby/vim-ruby): Vim/Ruby Configuration Files
 * [matchit.zip](https://github.com/vim-scripts/matchit.zip): extended % matching for HTML, LaTeX, and many other languages 
-* [AutoComplPop](https://github.com/vim-scripts/AutoComplPop): Automatically opens popup menu for completions
 
 ## What modes are included?
 * [vim-markdown](https://github.com/plasticboy/vim-markdown): Markdown Vim Mode
