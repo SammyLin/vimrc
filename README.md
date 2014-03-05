@@ -38,7 +38,7 @@ Link the vimrc to
 ## What plugins are included?
 * [pathogen.vim](https://github.com/tpope/vim-pathogen): Manages the runtime path of the plugins
 * [NERD Tree](https://github.com/scrooloose/nerdtree): A tree explorer plugin for vim
-* [vim-powerline](https://github.com/Lokaltog/vim-powerline): The ultimate vim statusline utility
+* [vim-airline](https://github.com/bling/vim-airline): The ultimate vim statusline utility
 * [vim-fugitive](https://github.com/tpope/vim-fugitive): a Git wrapper so awesome, it should be illegal
 * [snipMate.vim](https://github.com/garbas/vim-snipmate): snipMate.vim aims to be a concise vim script that implements some of TextMate's snippets features in Vim
 * [tlib_vim](https://github.com/tomtom/tlib_vim): Some utility functions for VIM 
