@@ -20,7 +20,7 @@ syntax enable
 set t_Co=256
 let g:solarized_termcolors=256
 try
-  colorscheme kolor
+  colorscheme hybrid 
 catch
 endtry
 
@@ -48,3 +48,16 @@ set wildmode=longest,list
 " make tab completion for files/buffers act like bash
 set wildmenu
 
+" Highlight current line
+au WinLeave * set nocursorline nocursorcolumn
+au WinEnter * set cursorline cursorcolumn
+set cursorline cursorcolumn
+
+if executable('ag')
+  " Use Ag over Grep
+  set grepprg=ag\ --nogroup\ --nocolor
+  " Use ag in CtrlP for listing files.
+  let g:ctrlp_user_command = 'ag %s -l --nocolor -g ""'
+  " Ag is fast enough that CtrlP doesn't need to cache
+  let g:ctrlp_use_caching = 0
+endif

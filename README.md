@@ -15,6 +15,7 @@ Make a symbolic link `.vim` to ``sammylin-vim`` that you just cloned, or just re
 
 Link the vimrc to
 
+
     ln -s .vim/vimrc .vimrc
 
 ## Screenshot
@@ -86,19 +87,33 @@ Link the vimrc to
 
 ### Open/Close NERDTree
 
-    ,n
+    <space>n
 
 ### Open CtrlP 
 
     Control + p
+    or
+    <space>o
+
+### Open Tagbar
+
+    <F6>
 
 ### Display the MRU file list
 
-    ,f
+    <space>f
 
 ### Display CtrlP CtrlPBuffer
 
-    ,b
+    <space>b
+
+### previous buffer
+
+    Control + h
+    
+### next buffer 
+
+    Control + l
 
 ### To suspend your running vim
 
@@ -114,7 +129,7 @@ Link the vimrc to
 
 ### Finding a word
 
-    /<word>
+    <!-- /<word> -->
     
     or
     
@@ -122,6 +137,24 @@ Link the vimrc to
 
     # Pressing the n key, will allow you to go directly to the next occurrence of the word. 
 
+
+### Ack (Finding a word in directory)
+    
+    FF
+
+### Rspec 
+    
+    # :call RunCurrentSpecFile
+    <space>t 
+
+    # :call RunNearestSpec
+    <space>s
+
+    # :call RunLastSpec
+    <space>l
+
+    # :call RunAllSpecs 
+    <space>a
 
 
 ## Reference document

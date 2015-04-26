@@ -1,4 +1,4 @@
-let mapleader=","
+let mapleader=" "
 
 """"""""""""""""
 "" NERDTree
@@ -15,7 +15,31 @@ map <Leader>f :MRU<CR>
 """"""""""""""""
 "" CtrlP
 """"""""""""""""
-map <Leader>b :CtrlPBuffer<CR>
-map <C-h> gT<CR>
-map <C-l> gt<CR>
 
+map <Leader>o :CtrlP<CR>
+map <Leader>b :CtrlPBuffer<CR>
+map <C-h> :bp<CR>
+map <C-l> :bn<CR>
+
+""""""""""""""""
+"" tagbar
+""""""""""""""""
+nmap <F6> :TagbarToggle<CR>
+
+
+""""""""""""""""
+"" Rspec 
+""""""""""""""""
+let g:rspec_runner = "os_x_iterm2"
+map <Leader>t :call RunCurrentSpecFile()<CR>
+map <Leader>s :call RunNearestSpec()<CR>
+map <Leader>l :call RunLastSpec()<CR>
+map <Leader>a :call RunAllSpecs()<CR>
+
+
+""""""""""""""""
+"" Tagbar 
+""""""""""""""""
+let g:tagbar_width=35
+let g:tagbar_autofocus=1
+nmap <F6> :TagbarToggle<CR>
