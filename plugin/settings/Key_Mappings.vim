@@ -43,3 +43,10 @@ map <Leader>a :call RunAllSpecs()<CR>
 let g:tagbar_width=35
 let g:tagbar_autofocus=1
 nmap <F6> :TagbarToggle<CR>
+
+
+""""""""""""""""
+"" Custom
+""""""""""""""""
+
+map <Leader>w :w<CR>
